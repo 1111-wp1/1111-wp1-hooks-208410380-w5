@@ -1,11 +1,11 @@
 import React from 'react';
-import T14_80 from './tutorial/1-useState/T14_80-useState-object';
+import T21_80 from './tutorial/2-useEffect/T21-useEffect-basics';
 
 const App_80 = () => {
   return (
     <div className='container'>
-      <h2>Tutorial 14 - 208410380</h2>
-      <T14_80 />
+      <h2>Tutorial 21 - 208410380</h2>
+      <T21_80 />
     </div>
   );
 };
